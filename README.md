@@ -1,2 +1,2 @@
 # data-product-editor
-A demo of desktop add for managing data mesh data products based on the PayPal data contract
+A demo of desktop add for managing data mesh data products based on the [PayPal data contract](https://github.com/paypal/data-contract-template)
